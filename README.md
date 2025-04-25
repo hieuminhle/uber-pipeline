@@ -12,17 +12,17 @@ This project is about building a data pipeline to extract, transform and load Ub
 
 ## Data Source
 
-Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+Website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Tech Stack
 
 1. Python
 2. Mage (https://www.mage.ai/)
 3. Google Cloud Platform
-   a. Cloud Storage
-   b. Compute Engine
-   c. BigQuery
+   - Cloud Storage
+   - Compute Engine
+   - BigQuery
 
 ## Commands
 
@@ -44,7 +44,7 @@ sudo python3 get-pip.py
 
 pip install mage-ai
 
-## Install Google Cloud Library
+### Install Google Cloud Library
 
 pip install google-cloud
 
