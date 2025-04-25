@@ -18,8 +18,34 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 ## Tech Stack
 
 1. Python
-2. Mage
+2. Mage (https://www.mage.ai/)
 3. Google Cloud Platform
    a. Cloud Storage
    b. Compute Engine
    c. BigQuery
+
+## Commands
+
+### Install Python and pip
+
+sudo apt-get update
+
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+sudo apt-get install wget
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python3 get-pip.py
+
+### Install Mage
+
+pip install mage-ai
+
+## Install Google Cloud Library
+
+pip install google-cloud
+
+pip install google-cloud-bigquery
