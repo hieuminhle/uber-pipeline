@@ -1,0 +1,12 @@
+GOOGLE_SERVICE_ACC_KEY:
+  type: service_account
+  project_id: "blissful-jet-457817-i4"
+  private_key_id: "4fe3754fc7b9c0b321440d7ed21865a964cacaa8"
+  private_key: "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCOyd+Z87gl/H5b\nYUa6U+2q2uzsNwOhtQICJADbD6jMaQhux/30ASZy8VYgMvQ3v9OWI5W4W9R7D4N7\nklSi2Av5KBuu5Vgvsaimbaa44BREHvKS/1MliMTqVXKAKIGlDGfeJfpFSHN8cASz\nqat+jeKO57utSXkVwLLytMgdLbkep902MJfiQEk6QnwWxDn8K6nIK+PGcPruIMf7\nX5h4VSooh91xhbWRuaru2C5A2VOrCha5jqhxKOswMJmH6fzEEvqiSZen6bk+YNeo\n7TAVvbl1vPSQ0E3va9FX6TZOWPb4yn6fA5iB29zEKM7q3Rm3qvHFcBiLkiaJ38LM\nws8shvxjAgMBAAECggEAIwpxgCNqVpAfJie6JrHACoTNTa62inGUO5hASYIPR5Kj\nCiS0MrQxjlWhcCdw/VlrAFZdQK/wdf65opKniIsCbTOlj4ci3Bl6LNWN66K59nmt\nx9s2uWhWArfTcJYAMtPXjZG+WFBOXwRScxC5UEZbifxed0knmOoAQEWTMm3tFxN3\nA/08Rpn7CWxR+zt9QvZoMDjob73CvRvPRiNY2tdnt4DriqQcanPKPAqosHL13RKV\nWAU+pO8Gv05ECf7gyNLX08HFhmGlc1T8921p9DjPSgCKPTXRvtnNxwkRuH4C2vx/\nsDFQlBuHNbKIQsZ09rv0JAH70RKhoCJQsXXzMkJh4QKBgQC/8o/0g1+wHk4kuVjs\nviJmwSbccnwdyewlbM/IJAs60elh/ydPRpJiCIoCt+xJ+azoeL5m5wHhastXitAL\nWpMtO+5KVQ5fUxH0gkmzYHadociTYL6jNwCC1D6DTGR5HPAv12QVoLw61ykK4LK5\nKvJJT3ssNNTCAD4KospRc4SN8wKBgQC+b9OBjHX1Ao97ZKdyIblu+zkp4+kb8BE6\ngWdygkk5xQtG8TA89oRoHcuSZD3oyn2Q5lhrRbZ5pj6zRNObfpyWLDd3qV2G0pTW\n85nuPKzYQu8C+fsMhbaiRj5uyuKQJeELxbaD/KSiLUcbvWZ4N0MP5JChWdYqQHG/\nPB9JjtXD0QKBgQCdyFZtOFDABSlXJsTiVqkQrlWzgKhmFEX5vahPbNGOWF7wHz3A\n/NH3o+1OrsGdTY/EyPw6uknhclgUbhb2Pk4dMNaAY8qcsTxhMXhD61eV3Bd0jmIm\n6F+TK8T3SSSOKiuGKBgtbyNLevJR7sL7U0I24Q7vF76MeoaFV6vXqI2d4QKBgBOx\nSqTV2ojIh//Ri8Mwm5VPYzzitYNPEukC4qijsmDH8H+Yh012jICbvCZaOVCuR8fJ\nGhGVtuXjfA5bqqoksJqS3fWAzQwZEI0dyagqHBGM8lxTb1N/LEChlOkuD7mqQRhP\njK0fXgLrPbQvpL3/sO6eyxn0SUI7QcfttqqLm61RAoGBAK+n4CUACiXjE5f4aZno\nIxpRsVx0jeMPTKd0HtSKKyZKP4N/IyqwST7iXmHEBwXDrWqaY9Cd579Y8s8kFcnq\nrRYOJMv+4SLM4nA5P4q8iRz+Wp5JESlsdht9m2pWBgJ8QV7McLOunoihFYCmMhJJ\ndUAGyMK+VBlKyI3DrJYZRf1o\n-----END PRIVATE KEY-----\n"
+  client_email: "uber-pipeline@blissful-jet-457817-i4.iam.gserviceaccount.com"
+  client_id: "118367954277364260024"
+  auth_uri: "https://accounts.google.com/o/oauth2/auth"
+  token_uri: "https://oauth2.googleapis.com/token"
+  auth_provider_x509_cert_url: "https://www.googleapis.com/oauth2/v1/certs"
+  client_x509_cert_url: "https://www.googleapis.com/robot/v1/metadata/x509/uber-pipeline%40blissful-jet-457817-i4.iam.gserviceaccount.com"
+  universe_domain: "googleapis.com"
